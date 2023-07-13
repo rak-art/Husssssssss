@@ -9,7 +9,7 @@ sudo apt install wget
 wget https://raw.githubusercontent.com/rak-art/Ppppppppppverips/main/flood.py
 
 #Running
-python3 flood.py
+python3 main_edit.py
 45.250.25.167
 80
 10000
